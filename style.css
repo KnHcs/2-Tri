@@ -131,5 +131,6 @@ container__caixa {
 
 .lista__link a{
     text-decorantio: none;
-    color
+    color: var(--branco-principal);
+    margin-left: 1em;
 }
