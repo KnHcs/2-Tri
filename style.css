@@ -106,3 +106,18 @@ container__caixa {
 .dispositivos{
     text-align: center
 }
+
+.dispositivos__titulo{
+    font-size:32px;
+    color: var(--branco-princial);
+}
+
+.rodape{
+    text-align: center;
+    margin: 5em 3em;
+}
+
+.lista__item{
+    font-size: 32px
+    color: var (--branco-principal);
+}
